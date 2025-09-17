@@ -76,6 +76,14 @@ A passionate and detail-oriented developer who loves building scalable and inter
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh420-dot&show_icons=true&theme=radical&token=YOUR_GITHUB_TOKEN" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh420-dot&layout=compact&theme=radical&token=YOUR_GITHUB_TOKEN" />
+</p>
+
+---
 
 ## 👀 Visitor Count
 <p align="left">
