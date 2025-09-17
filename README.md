@@ -84,32 +84,6 @@ A passionate and detail-oriented developer who loves building scalable and inter
 
 ---
 
-## 💪 Skills Progress
-
-<p><b>React JS</b></p>
-<img src="https://img.shields.io/badge/ReactJS-90%25-61DAFB?style=for-the-badge" />
-
-<p><b>Node.js</b></p>
-<img src="https://img.shields.io/badge/NodeJS-85%25-339933?style=for-the-badge" />
-
-<p><b>Spring Boot</b></p>
-<img src="https://img.shields.io/badge/SpringBoot-80%25-6DB33F?style=for-the-badge" />
-
-<p><b>Java</b></p>
-<img src="https://img.shields.io/badge/Java-75%25-007396?style=for-the-badge" />
-
-<p><b>Tailwind CSS</b></p>
-<img src="https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=for-the-badge" />
-
-<p><b>PostgreSQL</b></p>
-<img src="https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=for-the-badge" />
-
-<p><b>MongoDB</b></p>
-<img src="https://img.shields.io/badge/MongoDB-75%25-4EA94B?style=for-the-badge" />
-
-
----
-
 ## 🌟 About Me
 - Passionate about building full-stack applications  
 - Strong focus on clean, modular code & responsive UI  
