@@ -19,6 +19,16 @@ A passionate and detail-oriented developer who loves building scalable and inter
 
 ## 🛠️ Tech Stack
 
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -55,13 +65,6 @@ A passionate and detail-oriented developer who loves building scalable and inter
   <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
 ### Tools & Deployment
 <p>
@@ -74,18 +77,9 @@ A passionate and detail-oriented developer who loves building scalable and inter
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh420-dot&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh420-dot&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 👀 Visitor Count
 <p align="left">
-  <img src="https://profile-counter.glitch.me/ganesh420-dot/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ganesh420-dot&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -93,25 +87,26 @@ A passionate and detail-oriented developer who loves building scalable and inter
 ## 💪 Skills Progress
 
 <p><b>React JS</b></p>
-<img src="https://progress-bar.dev/90/?title=ReactJS&color=61DAFB&suffix=%25" />
+<img src="https://img.shields.io/badge/ReactJS-90%25-61DAFB?style=for-the-badge" />
 
 <p><b>Node.js</b></p>
-<img src="https://progress-bar.dev/85/?title=NodeJS&color=339933&suffix=%25" />
+<img src="https://img.shields.io/badge/NodeJS-85%25-339933?style=for-the-badge" />
 
 <p><b>Spring Boot</b></p>
-<img src="https://progress-bar.dev/80/?title=SpringBoot&color=6DB33F&suffix=%25" />
+<img src="https://img.shields.io/badge/SpringBoot-80%25-6DB33F?style=for-the-badge" />
 
 <p><b>Java</b></p>
-<img src="https://progress-bar.dev/75/?title=Java&color=007396&suffix=%25" />
+<img src="https://img.shields.io/badge/Java-75%25-007396?style=for-the-badge" />
 
 <p><b>Tailwind CSS</b></p>
-<img src="https://progress-bar.dev/90/?title=TailwindCSS&color=38B2AC&suffix=%25" />
+<img src="https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=for-the-badge" />
 
 <p><b>PostgreSQL</b></p>
-<img src="https://progress-bar.dev/80/?title=PostgreSQL&color=4169E1&suffix=%25" />
+<img src="https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=for-the-badge" />
 
 <p><b>MongoDB</b></p>
-<img src="https://progress-bar.dev/75/?title=MongoDB&color=4EA94B&suffix=%25" />
+<img src="https://img.shields.io/badge/MongoDB-75%25-4EA94B?style=for-the-badge" />
+
 
 ---
 
